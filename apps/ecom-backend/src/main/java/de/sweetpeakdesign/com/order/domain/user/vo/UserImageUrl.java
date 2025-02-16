@@ -1,6 +1,6 @@
-package fr.codecake.ecom.order.domain.user.vo;
+package de.sweetpeakdesign.com.order.domain.user.vo;
 
-import fr.codecake.ecom.shared.error.domain.Assert;
+import de.sweetpeakdesign.com.shared.error.domain.Assert;
 
 public record UserImageUrl(String value) {
 

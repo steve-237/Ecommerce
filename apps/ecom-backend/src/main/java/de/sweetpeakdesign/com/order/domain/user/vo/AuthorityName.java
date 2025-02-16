@@ -1,4 +1,4 @@
-package de.sweetpeakdesign.com.order.domain.vo;
+package de.sweetpeakdesign.com.order.domain.user.vo;
 
 import de.sweetpeakdesign.com.shared.error.domain.Assert;
 
