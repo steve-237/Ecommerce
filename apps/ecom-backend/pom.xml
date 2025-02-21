@@ -81,6 +81,12 @@
       <artifactId>httpclient5</artifactId>
       <version>5.3.1</version>
     </dependency>
+
+    <dependency>
+      <groupId>com.stripe</groupId>
+      <artifactId>stripe-java</artifactId>
+      <version>28.0.1</version>
+    </dependency>
 	</dependencies>
 
 	<build>
