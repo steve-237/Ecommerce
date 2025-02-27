@@ -2,7 +2,7 @@ logging:
   level:
     ROOT: INFO
     org.hibernate.SQL: INFO
-    fr.codecake.ecom: INFO
+    de.sweetpeakdesign.com: INFO
 
 spring:
   application:
@@ -50,8 +50,8 @@ spring:
     oauth2:
       resourceserver:
         jwt:
-          issuer-uri: https://codecake.kinde.com
-          jwk-set-uri: https://codecake.kinde.com/.well-known/jwks
+          issuer-uri: https://sweetpeakdesign.kinde.com
+          jwk-set-uri: https://sweetpeakdesign.kinde.com/.well-known/jwks
           audiences: http://localhost:8080/api
   devtools:
     restart:
