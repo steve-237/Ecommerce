@@ -8,5 +8,6 @@ import { FaIconComponent } from '@fortawesome/angular-fontawesome';
   imports: [CommonModule, RouterLink, FaIconComponent],
   templateUrl: './navbar.component.html',
   styleUrl: './navbar.component.css',
+  standalone: true,
 })
 export class NavbarComponent {}
